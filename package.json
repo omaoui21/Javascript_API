@@ -1,0 +1,16 @@
+{
+  "homepage": "https://omaoui21.github.io/Javascript_API.git",
+  "name": "javascript_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
